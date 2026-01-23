@@ -8,7 +8,7 @@
 </p>
 
 
-***Note: Due to the preciousness of the dataset, as with the previous [fundus dataset](https://github.com/wurenkai/UWF-RHS-Dataset-and-MASNet) and [oral dataset](https://github.com/wurenkai/HF-UNet-and-Autooral-dataset), we will fully publish our dataset and code upon acceptance of the article. Our paper is in the review stage. Please stay tuned for updates on our progress.***
+***Note: If you are an editor or reviewer, please refer to the supplementary materials section at the end of our submitted manuscript, where we have provided key code and sample datasets. For other viewers, due to the preciousness of the dataset, we will fully publish our dataset and code upon acceptance of the article. Our paper is in the review stage. Please stay tuned for updates on our progress.***
 
 **0. Main Environments.**
 - python 3.8
