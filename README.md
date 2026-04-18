@@ -1,7 +1,7 @@
 <p align="center">
   <h1 align="center">UWF-ExDataset-and-M3ASUNet</h1>
   <p align="center">
-    Huiping Yao<sup>1</sup>, Ruiming Fang<sup>1</sup>, Renkai Wu<sup>1,</sup>*, Jiajun Wang, Yanwei Chen, Qing Chang*, Yisheng Zhongu*
+    Huiping Yao<sup>1</sup>, Ruiming Fang<sup>1</sup>, Renkai Wu<sup>1,</sup>*, Jiajun Wang, Yanwei Chen, Qing Chang*, Yisheng Zhong*
   </p>
 
   </p>
